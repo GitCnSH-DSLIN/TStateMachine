@@ -1,3 +1,5 @@
+2020-02-20  Added Timeout Control for each state(DsLin), usefull for device control or network communication.
+
 What is TStateMachine?
 ======================
 TStateMachine is a framework for declaring and running state machines in Delphi. It supports generic types for states and triggers, anonymous methods for Guards and Effects (State.OnEntry? and State.OnExit?), and a Fluid interface for configuring the State Machine.
