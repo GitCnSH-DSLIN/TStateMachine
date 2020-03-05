@@ -1,4 +1,6 @@
-2020-02-20  Added Timeout Control for each state(DsLin), usefull for device control or network communication.
+2020-02-20
+----------
+DsLin: Can add Timeout Control for each state, usefull for commuication with device or network programming.
 
 What is TStateMachine?
 ======================
